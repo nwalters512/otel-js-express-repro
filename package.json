@@ -1,0 +1,9 @@
+{
+  "name": "otel-js-express-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nwalters512/otel-js-express-repro.git",
+  "author": "Nathan Walters <nwalters512@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
