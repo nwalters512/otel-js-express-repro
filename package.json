@@ -5,5 +5,10 @@
   "repository": "git@github.com:nwalters512/otel-js-express-repro.git",
   "author": "Nathan Walters <nwalters512@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@opentelemetry/api": "^1.0.4",
+    "@opentelemetry/instrumentation-express": "^0.28.0",
+    "express": "^4.17.3"
+  }
 }
