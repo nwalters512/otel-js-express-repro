@@ -6,4 +6,6 @@ const instrumentation = new ExpressInstrumentation();
 
 instrumentation.enable();
 
+require('express');
+
 instrumentation.disable();
